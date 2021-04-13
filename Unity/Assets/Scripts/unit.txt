@@ -1,0 +1,5 @@
+| Product Name | Product ID	 | Quantity	 | Price per item | Total Price |<br>Orange Juice		2		1		40		40
+Applebox		4		1		200		200
+Racecar		32		2		350		700
+ Bill id : 62 | Bill Date : 2020-09-13 14:43:20 |Total amount : 940
+

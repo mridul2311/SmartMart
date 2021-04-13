@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 10
+  - 7
+  - 8
+  - 15
+  - 11
+  - 50
+  - 1000
+  - 14
+  - 36
+  - 34
+  - 25
+  - 37
+  - 35
+  - 28
+  - 13
+  - 33
+  - 29
+  - 20
+  - 23
+  - 32
+  - 21
+  - 9
+  - 19
+  - 6
+  - 18
+  - 100
+  - 27
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Lays
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
